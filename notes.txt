@@ -22,4 +22,62 @@ Day 1 (March 23 2020)
 	- Who is searching/asking for it?
 	- Multi-platform?
 
+- Install node and npm
+	- Installed with NVM on linux
+	- nvm install 12.16.1
 
+- Setting up Visual Studio Code
+	- set dracula theme
+
+- Back-end, what is it? where it lives?
+	- It is where all business rules are located
+	- Connection with database
+	- Send e-mail and push notifications
+	- Communication with other APIs (webservices)
+	- Users authentication
+	- Criptography and security
+	- API RESTfull
+	- Communication can be via:
+		- JSON (front-end web)
+		- JSON (front-end mobile)
+		- JSON (external webservices)
+
+- Creating the project with Node.js (Hello World)
+	- npm install express
+	- create index.js
+
+- Different approaches
+	- Traditional approach
+		- Client requests some information
+		- Server process the requests and sends the page (HTML) with styles (CSS) with the requested information [server side]
+		- Client then render the page [client side]
+	- Single-Page Applications (SPA) approach
+		- Client requests some information
+		- Server process the requests and sends only the data requested [server side]
+		- Client then organize the received data in the interface (HTML with CSS) [client side]
+		- Server does not handle data presentation to clients (HTML and CSS)
+		- Data are transferred on JSON format
+			- Same server's APIs -> Multiple applications (web, mobile, etc...)
+
+- Node.js [backend]
+- React.js [frontend]
+
+- Creating the frontend project
+	- npx create-react-app frontend
+	- cd frontend
+	- npm start
+
+- Understanding React Native
+	- Traditional approach
+		- Before: Objective-C (Apple) and Java (Android)
+		- Today: Swift (Apple) and Kotlin (Android)
+	- React Native approach
+		- React Native creates Apple and Android apps
+		- It's native! So you can create native applications to iOS and Android with only one framework!
+		- Performance is almost the same (99.something...%)
+
+- What is Expo?
+	- React Native Framework
+		- Helps to use camera, map, gps, accelerometers, etc..
+		- Abstracts all SDK, so you don't need to install SDK and everything
+		
