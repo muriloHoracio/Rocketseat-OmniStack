@@ -1,0 +1,25 @@
+Day 1 (March 23 2020)
+- There are a lot of technologies for web development out there, so what technology to use?
+- What technologies to use?
+	- php? python? angular? ....
+	- choose one stack and focus on learning it well
+- JavaScript is essential for a web developer! So you must learn it!
+	- A lot of updates every year!
+	- Node js!
+		- It is also possible to develop mobile apps
+
+
+- How to choose a stack:
+	- What the market is looking for? (you need to understand this)
+	- How many and which companies are using it? (facebook? twitter? airbnb?...)
+	- How big is the community and the echo system?
+	- Who is developing and maintaining it?
+	- What are the use cases of the technologies?
+	- Positions on the market to persue a carrer betting in these technologies?
+	- Will it be easy if you need to migrate to other technologies?
+	- Can you multiply your opportunities without much effort?
+	- Are the technologies aligned with your wishes?
+	- Who is searching/asking for it?
+	- Multi-platform?
+
+
