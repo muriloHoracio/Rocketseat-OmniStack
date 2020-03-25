@@ -80,4 +80,10 @@ Day 1 (March 23 2020)
 	- React Native Framework
 		- Helps to use camera, map, gps, accelerometers, etc..
 		- Abstracts all SDK, so you don't need to install SDK and everything
-		
+
+Day 2 (March 24 2020)
+- Routes
+	- pages
+- Resources
+	- Infos, usually from database
+	
